@@ -3,3 +3,9 @@ my name is mukund
 my name is waseem
 
 My name is nikhil
+
+text after removing commit
+
+added in master
+
+added in second branch
